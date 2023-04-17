@@ -1,0 +1,37 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.opener {font-family: Baskerville;	}
+
+img {width: 100%; 
+	height: auto}
+
+.there{background-color:rgba(0,0,0,0.55);}
+
+
+body {background-image: url("Untitled_Artwork 16.jpg");
+background-repeat: no-repeat;
+background-size:cover;
+	background-color: #21203E;
+}
+
+
+
+.bodytext{font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-weight: 300
+}
+
+.credit{font-style: italic; font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; text-align: left}
+
+.above:hover{text-decoration: underline; }
+
+
+a, a:visited {
+    color: inherit;
+}
+a, a:hover {
+    color: inherit;
+}
+
+
+
